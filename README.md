@@ -123,8 +123,6 @@ Secure full-stack platform with role-based access for **100+ users**.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vaibhavv-x&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&dates=8B949E)](https://github.com/vaibhavv-x)
-
 </div>
 
 <div align="center">
