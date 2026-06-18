@@ -23,7 +23,7 @@ Experienced in building scalable web applications, REST APIs, and deploying prod
 | Domain | Skills |
 |--------|--------|
 | **Data Science & ML** | Data Analytics · Data Preprocessing · Feature Engineering · Predictive Modeling · Data Visualization |
-| **Software Development Engineering** | REST API Development · Node.js · JWT Auth · System Design |
+| **Software Development Engineering** | REST API Development · FastAPI · Node.js · JWT Auth · System Design |
 | **Generative AI** | LLM Integration · RAG Pipelines · Prompt Engineering · Vector Search · Embeddings |
 | **Data Infrastructure** | SQL · Data Warehousing · ETL · MongoDB · MySQL |
 
@@ -84,7 +84,7 @@ Experienced in building scalable web applications, REST APIs, and deploying prod
 ## 🚀 Featured Projects
 
 ### 📊 [Earnings Briefing Engine](https://github.com/vaibhavv-x/Earnings-Briefing-Engine) — Financial Forecasting Platform
-> `Python` `Pandas` `scikit-learn` `React (Vite)` `Machine Learning`
+> `Python` `Pandas` `scikit-learn` `FastAPI` `React (Vite)` `Machine Learning`
 
 A financial analytics platform that forecasts **Revenue, Profit, and EPS** for 10+ companies using Time Series ML models.
 - Performed financial data preprocessing, feature engineering, and trend analysis
@@ -124,7 +124,7 @@ Secure full-stack platform with role-based access for **100+ users**.
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavv-x&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vaibhavv-x&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8)](https://github.com/vaibhavv-x)
 
 </div>
 
@@ -161,6 +161,7 @@ Secure full-stack platform with role-based access for **100+ users**.
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00B4D8)](https://vaibhav-portfolio-neon.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavv22)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavv-x)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavchhabra2201@gmail.com)
