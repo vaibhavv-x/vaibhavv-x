@@ -23,7 +23,7 @@ Experienced in building scalable web applications, REST APIs, and deploying prod
 | Domain | Skills |
 |--------|--------|
 | **Data Science & ML** | Data Analytics · Data Preprocessing · Feature Engineering · Predictive Modeling · Data Visualization |
-| **Software Development Engineering** | REST API Development · FastAPI · Node.js · JWT Auth · System Design |
+| **Software Development Engineering** | REST API Development · Node.js · Express.js · JWT Auth · System Design |
 | **Generative AI** | LLM Integration · RAG Pipelines · Prompt Engineering · Vector Search · Embeddings |
 | **Data Infrastructure** | SQL · Data Warehousing · ETL · MongoDB · MySQL |
 
@@ -42,7 +42,6 @@ Experienced in building scalable web applications, REST APIs, and deploying prod
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -84,11 +83,11 @@ Experienced in building scalable web applications, REST APIs, and deploying prod
 ## 🚀 Featured Projects
 
 ### 📊 [Earnings Briefing Engine](https://github.com/vaibhavv-x/Earnings-Briefing-Engine) — Financial Forecasting Platform
-> `Python` `Pandas` `scikit-learn` `FastAPI` `React (Vite)` `Machine Learning`
+> `Python` `Pandas` `scikit-learn` `React (Vite)` `Machine Learning`
 
 A financial analytics platform that forecasts **Revenue, Profit, and EPS** for 10+ companies using Time Series ML models.
 - Performed financial data preprocessing, feature engineering, and trend analysis
-- Designed FastAPI backend services processing **1,000+ records per prediction cycle**
+- Designed Python-based backend services processing **1,000+ records per prediction cycle**
 - Built comparative analytics dashboards for multi-company benchmarking
 
 ---
@@ -117,14 +116,20 @@ Secure full-stack platform with role-based access for **100+ users**.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhavv-x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavv-x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhavv-x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9&custom_title=Vaibhav's%20GitHub%20Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavv-x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=C9D1D9&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vaibhavv-x&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8)](https://github.com/vaibhavv-x)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vaibhavv-x&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&dates=8B949E)](https://github.com/vaibhavv-x)
+
+</div>
+
+<div align="center">
+
+[![Vaibhav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhavv-x&bg_color=0D1117&color=00B4D8&line=00B4D8&point=FFFFFF&area=true&hide_border=true)](https://github.com/vaibhavv-x)
 
 </div>
 
