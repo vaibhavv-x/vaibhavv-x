@@ -23,7 +23,7 @@ Experienced in building scalable web applications, REST APIs, and deploying prod
 | Domain | Skills |
 |--------|--------|
 | **Data Science & ML** | Data Analytics · Data Preprocessing · Feature Engineering · Predictive Modeling · Data Visualization |
-| **Software Development Engineering** | REST API Development · FastAPI · Node.js · JWT Auth · System Design |
+| **Software Development Engineering** | REST API Development · Node.js · JWT Auth · System Design |
 | **Generative AI** | LLM Integration · RAG Pipelines · Prompt Engineering · Vector Search · Embeddings |
 | **Data Infrastructure** | SQL · Data Warehousing · ETL · MongoDB · MySQL |
 
@@ -84,7 +84,7 @@ Experienced in building scalable web applications, REST APIs, and deploying prod
 ## 🚀 Featured Projects
 
 ### 📊 [Earnings Briefing Engine](https://github.com/vaibhavv-x/Earnings-Briefing-Engine) — Financial Forecasting Platform
-> `Python` `Pandas` `scikit-learn` `FastAPI` `React (Vite)` `Machine Learning`
+> `Python` `Pandas` `scikit-learn` `React (Vite)` `Machine Learning`
 
 A financial analytics platform that forecasts **Revenue, Profit, and EPS** for 10+ companies using Time Series ML models.
 - Performed financial data preprocessing, feature engineering, and trend analysis
