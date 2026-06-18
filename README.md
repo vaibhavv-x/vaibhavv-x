@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00B4D8,100:0D1117&height=200&section=header&text=Vaibhav&fontSize=60&fontColor=00B4D8&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Generative%20AI&descAlignY=58&descSize=16&descColor=8B949E" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00B4D8,100:0D1117&height=200&section=header&text=Vaibhav&fontSize=60&fontColor=00B4D8&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Generative%20AI&descAlignY=58&descSize=16&descColor=8B949E" />
 
 </div>
 
@@ -9,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-Computer Science undergraduate specializing in **Backend Engineering**, **Full Stack Development**, and **Generative AI**.
+Computer Science undergraduate specializing in **Software Development Engineering**, **Full Stack Development**, and **Generative AI**.
 
 Experienced in building scalable web applications, REST APIs, and deploying production-ready systems. Skilled in integrating LLM-based systems and **Retrieval-Augmented Generation (RAG)** pipelines. Strong foundation in Data Structures, Operating Systems, and DBMS. Focused on designing modular systems, optimizing performance, and developing low-latency applications.
 
@@ -24,7 +23,7 @@ Experienced in building scalable web applications, REST APIs, and deploying prod
 | Domain | Skills |
 |--------|--------|
 | **Data Science & ML** | Data Analytics · Data Preprocessing · Feature Engineering · Predictive Modeling · Data Visualization |
-| **Backend Engineering** | REST API Development · FastAPI · Node.js · JWT Auth · System Design |
+| **Software Development Engineering** | REST API Development · FastAPI · Node.js · JWT Auth · System Design |
 | **Generative AI** | LLM Integration · RAG Pipelines · Prompt Engineering · Vector Search · Embeddings |
 | **Data Infrastructure** | SQL · Data Warehousing · ETL · MongoDB · MySQL |
 
@@ -84,7 +83,7 @@ Experienced in building scalable web applications, REST APIs, and deploying prod
 
 ## 🚀 Featured Projects
 
-### 📊 [Earnings Briefing Engine](https://github.com/vaibhavchhabra2201) — Financial Forecasting Platform
+### 📊 [Earnings Briefing Engine](https://github.com/vaibhavv-x/Earnings-Briefing-Engine) — Financial Forecasting Platform
 > `Python` `Pandas` `scikit-learn` `FastAPI` `React (Vite)` `Machine Learning`
 
 A financial analytics platform that forecasts **Revenue, Profit, and EPS** for 10+ companies using Time Series ML models.
@@ -94,7 +93,7 @@ A financial analytics platform that forecasts **Revenue, Profit, and EPS** for 1
 
 ---
 
-### 🛡️ [AegisFraud](https://github.com/vaibhavchhabra2201) — Credit Card Fraud Analytics Platform
+### 🛡️ [AegisFraud](https://github.com/vaibhavv-x/Credit-Card-Fraud-Detection) — Credit Card Fraud Analytics Platform
 > `React` `Node.js` `Express` `MongoDB` `Python` `XGBoost` `SHAP`
 
 Full-stack fraud detection platform classifying credit card transactions with up to **96% accuracy**.
@@ -104,7 +103,7 @@ Full-stack fraud detection platform classifying credit card transactions with up
 
 ---
 
-### 🔐 [SafePick](https://github.com/vaibhavchhabra2201) — Secure Storage & Release Management System
+### 🔐 [SafePick](https://github.com/vaibhavv-x/Safe-Pick) — Secure Storage & Release Management System
 > `React` `Node.js` `Express` `MongoDB`
 
 Secure full-stack platform with role-based access for **100+ users**.
@@ -118,14 +117,14 @@ Secure full-stack platform with role-based access for **100+ users**.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhavchhabra2201&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavchhabra2201&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhavv-x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavv-x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavchhabra2201&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavv-x&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8)
 
 </div>
 
@@ -162,8 +161,8 @@ Secure full-stack platform with role-based access for **100+ users**.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavchhabra2201)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavchhabra2201)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavv22)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavv-x)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavchhabra2201@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918506000066)
 
@@ -175,20 +174,6 @@ Secure full-stack platform with role-based access for **100+ users**.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00B4D8,100:0D1117&height=100&section=footer" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=vaibhavchhabra2201&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=vaibhavv-x&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-<!--
-**vaibhavv-x/vaibhavv-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
