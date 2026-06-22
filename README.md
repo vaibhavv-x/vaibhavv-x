@@ -65,10 +65,10 @@ Experienced in building scalable web applications, REST APIs, and deploying prod
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 
 ### Generative AI & LLMs
-![LangChain](https://img.shields.io/badge/RAG_Pipelines-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Google Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![BERT](https://img.shields.io/badge/BERT_Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ### Tools & Platforms
@@ -112,6 +112,29 @@ Secure full-stack platform with role-based access for **100+ users**.
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vaibhavv-x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9&custom_title=Vaibhav's%20GitHub%20Stats"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vaibhavv-x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=C9D1D9&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vaibhavv-x&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&dates=8B949E)](https://github.com/vaibhavv-x)
+
+</div>
+
+<div align="center">
+
+[![Vaibhav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhavv-x&bg_color=0D1117&color=00B4D8&line=00B4D8&point=FFFFFF&area=true&hide_border=true)](https://github.com/vaibhavv-x)
+
+</div>
+
+---
+
 ## 🏆 Certifications
 
 <div align="center">
@@ -146,8 +169,8 @@ Secure full-stack platform with role-based access for **100+ users**.
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00B4D8)](https://vaibhav-portfolio-neon.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavv22)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavv-x)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=vaibhavchhabra2201@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918506000066)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=vaibhavchhabra2201@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918506000066)
 
 </div>
 
